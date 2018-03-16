@@ -1,5 +1,5 @@
 {
-  "name": "yekpcampv2",
+  "name": "yelpcampv10",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "body-parser": "^1.18.2",
     "ejs": "^2.5.7",
     "express": "^4.16.2",
-    "mongoose": "^4.13.9"
+    "express-session": "^1.15.6",
+    "method-override": "^2.3.10",
+    "mongoose": "^4.13.9",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.5.0"
   },
   "devDependencies": {},
   "description": ""
